@@ -10,10 +10,10 @@ Welcome to my GitHub profile! I'm passionate about creating innovative and high-
 - RESTful API integration
 - Git version control
 
-### Feel free to explore the repositories to learn more about my projects and code contributions. Contributions, suggestions, and collaborations are always welcome!
+#### Feel free to explore the repositories to learn more about my projects and code contributions. Contributions, suggestions, and collaborations are always welcome!
 
 
-### If you're interested in collaborating on open-source projects or have any suggestions, feel free to reach out.
+#### If you're interested in collaborating on open-source projects or have any suggestions, feel free to reach out.
 
 ## 📫 Let's Connect
 - LinkedIn: [Assem Ashraf](https://www.linkedin.com/in/assemdev0/)
