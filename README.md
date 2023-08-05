@@ -8,6 +8,9 @@ Welcome to my GitHub profile! I'm passionate about creating innovative and high-
 - UI/UX design and implementation
 - Firebase integration
 - RESTful API integration
+- Clean Architecture
+- Clean Code
+- MVVM
 - Git version control
 
 #### Feel free to explore the repositories to learn more about my projects and code contributions. Contributions, suggestions, and collaborations are always welcome!
