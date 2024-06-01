@@ -1,8 +1,12 @@
-# Hi there! 👋 I'm Assem Ashraf, a Flutter Developer
+# Hi there! 👋 I'm Assem Ashraf, a Full Stack Developer and  Flutter Developer
 
-Welcome to my GitHub profile! I'm passionate about creating innovative and high-quality mobile applications using Flutter. Here you'll find a collection of my projects and contributions to the Flutter ecosystem.
+Welcome to my GitHub profile! I'm Full Stack Developer with expertise in Python and Flutter. With over 2 years of experience in software development, I specialize in building robust and scalable web applications tailored to meet client needs.
 
 ## 🚀 Skills and Expertise
+- Python,  JavaScript
+- Django and Flask
+- PostgreSQL, MySQL, SQLite
+- HTML5, CSS3, JavaScript, React
 - Flutter and Dart
 - Cross-platform mobile app development
 - UI/UX design and implementation
@@ -19,10 +23,9 @@ Welcome to my GitHub profile! I'm passionate about creating innovative and high-
 #### If you're interested in collaborating on open-source projects or have any suggestions, feel free to reach out.
 
 ## 📫 Let's Connect
-- LinkedIn: [Assem Ashraf](https://www.linkedin.com/in/assemdev0/)
-- Email: [assemdev0@gmail.com]
-- Medium: [https://medium.com/@assemdev0]
-- Twitter: [https://twitter.com/assemdev0]
+- LinkedIn: [Assem Ashraf](https://www.linkedin.com/in/assemabudeif/)
+- Email: [assemabudeif@gmail.com]
+- Twitter: [https://twitter.com/assemabudeif]
 
 I'm open to new opportunities and collaborations. If you have any questions, project ideas, or just want to say hi, feel free to get in touch.
 
