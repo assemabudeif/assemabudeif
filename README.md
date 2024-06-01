@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Assem Ashraf, a Full Stack Developer and  Flutter Developer
 
-Welcome to my GitHub profile! I'm Full Stack Developer with expertise in Python and Flutter. With over 2 years of experience in software development, I specialize in building robust and scalable web applications tailored to meet client needs.
+Welcome to my GitHub profile! I'm Full Stack Developer with expertise in Python and Flutter. With over 2 years of experience in software development, I specialize in building robust and scalable web and mobile applications tailored to meet client needs.
 
 ## 🚀 Skills and Expertise
 - Python,  JavaScript
