@@ -37,35 +37,35 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in Pytho
 
 ## 📫 Let's Connect
 <br>
-<a href="mailto:assemabudeif@gmail.com">
+<a href="mailto:assemabudeif@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &#160;
-<a href="https://wa.me/+201125522530">
+<a href="https://wa.me/+201125522530" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &#160;
-<a href="https://www.linkedin.com/in/assemabudeif">
+<a href="https://www.linkedin.com/in/assemabudeif" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &#160;
-<a href="https://www.facebook.com/assemabudeif">
+<a href="https://www.facebook.com/assemabudeif" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 &#160;
-<a href="https://twitter.com/assemabudeif">
+<a href="https://twitter.com/assemabudeif" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 &#160;
-<a href="https://www.instagram.com/assemabudeif/">
+<a href="https://www.instagram.com/assemabudeif/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 &#160;
-<a href="https://leetcode.com/u/assemabudeif/">
+<a href="https://leetcode.com/u/assemabudeif/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 </a>
 &#160;
-<a href="https://www.hackerrank.com/assemabudeif">
+<a href="https://www.hackerrank.com/assemabudeif" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 
