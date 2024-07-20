@@ -2,8 +2,15 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in Python and Flutter. With over 2 years of experience in software development, I specialize in building robust and scalable web and mobile applications tailored to meet client needs.
 
-## 🚀 Skills and Expertise
-- Python,  JavaScript
+## 🚀 Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+- Python, JavaScript
 - Django and Flask
 - PostgreSQL, MySQL, SQLite
 - HTML5, CSS3, JavaScript, React
@@ -30,9 +37,9 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in Pytho
 
 ## 📫 Let's Connect
 - LinkedIn [Assem Ashraf](https://www.linkedin.com/in/assemabudeif/)
-- Email: [assemabudeif@gmail.com]
-- Twitter: [https://twitter.com/assemabudeif]
-
+- Email: assemabudeif@gmail.com
+- [WhatsApp]
+(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)[https://wa.me/+201125522530]
 I'm open to new opportunities and collaborations. If you have any questions, or project ideas, or want to say hi, feel free to get in touch.
 
 Thanks for visiting, and happy coding! 🎉
