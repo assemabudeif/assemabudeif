@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in Pytho
 ## 📫 Let's Connect
 - LinkedIn [Assem Ashraf](https://www.linkedin.com/in/assemabudeif/)
 - Email: assemabudeif@gmail.com
-- [WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://wa.me/+201125522530)
+- [WhatsApp](https://wa.me/+201125522530)(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 I'm open to new opportunities and collaborations. If you have any questions, or project ideas, or want to say hi, feel free to get in touch.
 
 Thanks for visiting, and happy coding! 🎉
