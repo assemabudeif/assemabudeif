@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in Python and Flutter. With over 2 years of experience in software development, I specialize in building robust and scalable web and mobile applications tailored to meet client needs.
 
 ## 🚀 Languages and Tools:
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
