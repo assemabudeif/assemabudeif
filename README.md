@@ -1,8 +1,11 @@
 <!-- 🌟 ASSEM ABUDEIF - INTERACTIVE GITHUB PROFILE -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Assem+Ashraf+(عاصم);🚀+Full+Stack+Developer;💙+Flutter+%2B+Laravel+%2B+Django+Expert;🌍+Turning+Ideas+into+Code" alt="Typing Animation" />
-</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&duration=4000&color=36BCF7&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+Hi%2C+I%27m+Assem+Ashraf+%28%D8%B9%D8%A7%D8%B5%D9%85%29;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%99+Flutter+%2B+Laravel+%2B+Django+Expert;%F0%9F%8C%8D+Turning+Ideas+into+Code"
+    alt="Typing Animation"
+  />
+</p>
 
 ---
 
