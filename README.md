@@ -1,78 +1,96 @@
-# Hi there! 👋 I'm Assem Ashraf, a Full Stack Developer and  Flutter Developer
+# 👋 Hi, I'm Assem Ashraf Adel Abu Deif (عاصم)
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with expertise in Python and Flutter. With over 2 years of experience in software development, I specialize in building robust and scalable web and mobile applications tailored to meet client needs.
+### 🚀 Full-Stack Developer | Flutter, Laravel, Django, Next.js
 
-## 🚀 Languages and Tools:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![RestAPI](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=rest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+---
 
-## GitHub Stats:
-![assemabudeif's GitHub stats](https://github-readme-stats.vercel.app/api?username=assemabudeif&show_icons=true&theme=radical)
+### 💫 About Me
+I'm a passionate **Full-Stack Developer** from Egypt 🇪🇬 with strong experience in **Flutter**, **Laravel**, **Django**, and **React/Next.js**.  
+I focus on building scalable, high-performance apps and APIs that deliver real business value.
 
-## Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=assemabudeif&layout=compact&theme=radical)
+🔹 3+ years of development experience  
+🔹 Specialized in **mobile-first architectures** and **cross-platform apps**  
+🔹 Strong understanding of **Clean Architecture**, **SOLID principles**, and **CI/CD pipelines**  
 
-### You can explore the repositories to learn more about my projects and code contributions. Contributions, suggestions, and collaborations are always welcome!
+> ✨ “Turning ideas into elegant code and real products.”
 
+---
 
-### If you're interested in collaborating on open-source projects or have any suggestions, please reach out.
+### 🏢 Experience
 
-## 📫 Let's Connect
-<br>
-<a href="mailto:assemabudeif@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&#160;
-<a href="https://wa.me/+201125522530" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-&#160;
-<a href="https://www.linkedin.com/in/assemabudeif" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&#160;
-<a href="https://www.facebook.com/assemabudeif" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-&#160;
-<a href="https://twitter.com/assemabudeif" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-&#160;
-<a href="https://www.instagram.com/assemabudeif/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-&#160;
-<a href="https://leetcode.com/u/assemabudeif/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-</a>
-&#160;
-<a href="https://www.hackerrank.com/assemabudeif" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
-</a>
+- **Full Stack Developer at [TIQNIA.com](https://tiqnia.com/)**  
+  - 🩺 Medical Center App – full backend + 50% frontend features.  
+  - 🧺 Luxe Laundry App – backend + Flutter UI ([App Store](https://apps.apple.com/us/app/luxe-laundry-lab/id6739533775) | [Google Play](https://play.google.com/store/apps/details?id=tiqnia.luxe.laundry.labs))  
 
-<br>
-<br>
-I'm open to new opportunities and collaborations. If you have any questions, or project ideas, or want to say hi, feel free to get in touch.
+- **Mobile Developer at Line Group (Go..Go..Grow)**  
+  Developed and published 8 mobile apps using Flutter 📱  
 
-Thanks for visiting, and happy coding! 🎉
+- **Flutter Instructor at I CAN**  
+  Trained students on Flutter, state management, API integration & Firebase.  
+
+---
+
+### 🧠 Tech Stack
+
+**Frontend & Mobile:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+**Backend:**  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+
+**Databases & Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+
+**DevOps:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+
+---
+
+### 🌍 Freelance Projects
+
+- 🛍 **Souq Algomlah** – B2B e-commerce ([App Store](https://apps.apple.com/us/app/souq-algomlah/id6621180810) | [Google Play](https://play.google.com/store/apps/details?id=com.souqalgomlah.app))
+- 🧳 **Elmohager** – Travel & E-commerce ([Google Play](https://play.google.com/store/apps/details?id=com.elmohager.app.el_mohager))
+- 🎓 **علشانك E-Learning** – Educational App ([Google Play](https://play.google.com/store/apps/details?id=com.alashanak.main))
+- 🍽 **Up Town Eats** – Restaurants App ([Google Play](https://play.google.com/store/apps/details?id=com.flexicode.uptowneats))
+
+---
+
+### 🏆 Achievements
+
+- 🥈 2nd Place – **Ramadan Challenge** by Eng. Tareq Al-Abd ([GitHub Repo](https://github.com/assemabudeif/ramadan_challenge))  
+- 🧑‍💻 Technical Head – **GDG Minya (Google Developers Group)**  
+
+---
+
+### 📊 GitHub Stats
+
+![Assem's GitHub stats](https://github-readme-stats.vercel.app/api?username=assemabudeif&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assemabudeif&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=assemabudeif&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assemabudeif)
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/assemabudeif)
+[![Email](https://img.shields.io/badge/Email-assem.abudeif%40gmail.com-red)](mailto:assem.abudeif@gmail.com)
+
+---
+
+## 🇪🇬 نبذة عني بالعربي
+
+أنا **عاصم أشرف عادل أبو ديف**، مطور برمجيات محترف بخبرة تتجاوز ٣ سنوات في تطوير تطبيقات الموبايل باستخدام **Flutter**، وتطوير الأنظمة الخلفية باستخدام **Laravel** و **Django**.  
+ببني تطبيقات متكاملة من الصفر حتى النشر على App Store و Google Play، مع اهتمام قوي بالأداء، القابلية للتوسع، والتصميم النظيف.
+
+🎯 هدفي هو تحويل الأفكار إلى منتجات رقمية حقيقية.  
+💡 شغوف بالتعلم، الإبداع، والتطوير المستمر.
+
+> 🌟 “ابدع بالبساطة، وخلي الكود يتكلم عنك!”
