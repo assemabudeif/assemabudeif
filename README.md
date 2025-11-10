@@ -1,8 +1,12 @@
 <!-- 🌟 ASSEM ABUDEIF - INTERACTIVE GITHUB PROFILE -->
 
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Assem%20Ashraf%20(عاصم)&fontAlign=50&fontAlignY=40&color=0:0A66C2,100:8A2BE2&desc=Full%20Stack%20Developer%20%7C%20Flutter%20%2B%20Laravel%20%2B%20Django&descAlign=50&descAlignY=65" />
+</p> -->
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&duration=4000&color=36BCF7&center=true&vCenter=true&width=720&lines=%F0%9F%91%8B+Hi%2C+I%27m+Assem+Ashraf+%28%D8%B9%D8%A7%D8%B5%D9%85%29;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%99+Flutter+%2B+Laravel+%2B+Django+Expert;%F0%9F%8C%8D+Turning+Ideas+into+Code"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&duration=3500&color=0A66C2&center=true&vCenter=true&width=900&lines=%F0%9F%91%8B+Hi%2C+I%27m+Assem+Ashraf;%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%92%99+Flutter+%2B+Laravel+%2B+Django+Expert;%F0%9F%8C%8D+Turning+Ideas+into+Code"
     alt="Typing Animation"
   />
 </p>
@@ -98,26 +102,26 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/assemabudeif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/assemabudeif"><img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" /></a>
-  <a href="mailto:assem.abudeif@gmail.com"><img src="https://img.shields.io/badge/Email-assem.abudeif%40gmail.com-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/assemabudeif">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/assemabudeif">
+    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:assem.abudeif@gmail.com">
+    <img src="https://img.shields.io/badge/Email-assem.abudeif%40gmail.com-EA4335?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=201125522530&text=Hi%20Assem%20(عاصم)%2C%20I%27m%20coming%20from%20GitHub%20profile">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>📞 Phone / WhatsApp:</b> <a href="tel:+201125522530">+20 112 552 2530</a><br/>
 </p>
 
 ---
 
-## 🇪🇬 نبذة عني بالعربي
-
-أنا **عاصم أشرف عادل أبو ديف**، مطور برمجيات بخبرة أكتر من ٣ سنوات في تطوير تطبيقات الموبايل باستخدام **Flutter**،  
-وبناء الأنظمة الخلفية المتكاملة باستخدام **Laravel** و **Django**.  
-بحب أشتغل على المشاريع اللي فيها تحدي وإبداع، وبهتم جدًا بجودة الكود وتصميم الحلول الذكية.
-
-🎯 هدفي: تحويل الأفكار إلى مشاريع حقيقية بتأثير فعلي.  
-💡 شغفي: التعلم المستمر والابتكار في كل سطر كود.
-
-> 🌟 “ابدع ببساطة، وخلي الكود يتكلم عنك!”
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8A2BE2&height=120&section=footer"/>
 </p>
