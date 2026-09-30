@@ -50,7 +50,7 @@ Designed, built, and published a privacy-focused Islamic lifestyle app with pray
 
 | Project | What I did | Link / status |
 | --- | --- | --- |
-| **Awlad Elewa** | Built Laravel REST APIs and a Blade admin dashboard from scratch with MySQL; deployed both to Hostinger through cPanel. | Client deployment |
+| **[Awlad Elewa](https://github.com/assemabudeif/Awlad_Elewa_Backend)** | Built Laravel REST APIs and a Blade admin dashboard from scratch with MySQL; deployed both to Hostinger through cPanel. | [Public backend repository](https://github.com/assemabudeif/Awlad_Elewa_Backend) |
 | **Souq Algomlah** | Built the Flutter wholesale marketplace from scratch with Bloc and REST APIs; handled both store releases. | [App Store](https://apps.apple.com/us/app/souq-algomlah/id6621180810) · [Google Play](https://play.google.com/store/apps/details?id=com.souqalgomlah.app) |
 | **INSEP PRO** | Completed the remaining work on an existing Flutter app and published it on the App Store. | App Store release |
 | **Elmohager** | Contributed alongside another developer and managed both store releases. | [Google Play](https://play.google.com/store/apps/details?id=com.elmohager.app.el_mohager) |
