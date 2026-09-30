@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
+  <title id="title">Assem Abu Deif — Senior Flutter Developer and Mobile Software Engineer</title>
+  <desc id="desc">Dark blue portfolio banner with a mobile app illustration and a Flutter, Android, iOS, and web focus.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1225"/>
+      <stop offset="0.52" stop-color="#122b4b"/>
+      <stop offset="1" stop-color="#073b4c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#54ddf2"/>
+      <stop offset="1" stop-color="#69a7ff"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#183a58"/>
+      <stop offset="1" stop-color="#10263f"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#b9e6ff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+
+  <rect width="1100" height="300" rx="24" fill="url(#background)"/>
+  <rect width="1100" height="300" rx="24" fill="url(#grid)"/>
+  <circle cx="848" cy="85" r="126" fill="#2bbce2" opacity="0.17" filter="url(#glow)"/>
+  <circle cx="1020" cy="252" r="102" fill="#628fff" opacity="0.14" filter="url(#glow)"/>
+  <path d="M 0 246 C 225 197, 345 296, 570 245 S 870 184, 1100 228" fill="none" stroke="url(#accent)" stroke-opacity="0.2" stroke-width="2"/>
+
+  <rect x="44" y="35" width="12" height="12" rx="3" fill="#54ddf2"/>
+  <text x="69" y="46" fill="#c3d9e9" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.1">MOBILE • WEB • PRODUCT DELIVERY</text>
+  <text x="44" y="125" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5">Assem Abu Deif</text>
+  <rect x="44" y="148" width="78" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="44" y="194" fill="#e7f6ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Senior Flutter Developer</text>
+  <text x="44" y="232" fill="#a8c9dc" font-family="Arial, Helvetica, sans-serif" font-size="20">Mobile Software Engineer · Cairo, Egypt</text>
+  <text x="44" y="270" fill="#7fadc6" font-family="Arial, Helvetica, sans-serif" font-size="17">From architecture to App Store and Google Play releases</text>
+
+  <g transform="translate(838 22)">
+    <rect x="0" y="0" width="176" height="256" rx="27" fill="#071827" stroke="#6dc8e7" stroke-width="2"/>
+    <rect x="9" y="9" width="158" height="238" rx="20" fill="url(#phone)"/>
+    <rect x="60" y="16" width="56" height="5" rx="2.5" fill="#4d7b99"/>
+    <circle cx="29" cy="45" r="8" fill="#54ddf2"/>
+    <rect x="47" y="39" width="85" height="5" rx="2.5" fill="#d8eaff"/>
+    <rect x="47" y="50" width="56" height="4" rx="2" fill="#7292ac"/>
+    <rect x="20" y="74" width="136" height="69" rx="12" fill="#24729b"/>
+    <path d="M 33 117 L 60 96 82 109 110 84 143 98" fill="none" stroke="#a5eff5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="110" cy="84" r="4" fill="#fff"/>
+    <rect x="20" y="157" width="63" height="53" rx="9" fill="#254b68"/>
+    <rect x="93" y="157" width="63" height="53" rx="9" fill="#254b68"/>
+    <rect x="31" y="171" width="37" height="6" rx="3" fill="#74cae4"/>
+    <rect x="31" y="185" width="25" height="5" rx="2.5" fill="#a8c9dc"/>
+    <rect x="104" y="171" width="37" height="6" rx="3" fill="#74cae4"/>
+    <rect x="104" y="185" width="25" height="5" rx="2.5" fill="#a8c9dc"/>
+    <rect x="62" y="225" width="52" height="4" rx="2" fill="#6486a1"/>
+  </g>
+  <rect x="1069" y="60" width="8" height="50" rx="4" fill="#59c9e7" opacity="0.7"/>
+  <rect x="1069" y="117" width="8" height="32" rx="4" fill="#59c9e7" opacity="0.3"/>
+</svg>
