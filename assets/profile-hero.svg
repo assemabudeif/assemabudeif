@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300" role="img" aria-labelledby="title desc">
-  <title id="title">Assem Abu Deif — Senior Flutter Developer and Mobile Software Engineer</title>
+  <title id="title">Assem Abu Deif — Senior Full Stack Engineer and Mobile Developer</title>
   <desc id="desc">Dark blue portfolio banner with a mobile app illustration and a Flutter, Android, iOS, and web focus.</desc>
   <defs>
     <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
@@ -33,8 +33,8 @@
   <text x="69" y="46" fill="#c3d9e9" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="2.1">MOBILE • WEB • PRODUCT DELIVERY</text>
   <text x="44" y="125" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700" letter-spacing="-1.5">Assem Abu Deif</text>
   <rect x="44" y="148" width="78" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="44" y="194" fill="#e7f6ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Senior Flutter Developer</text>
-  <text x="44" y="232" fill="#a8c9dc" font-family="Arial, Helvetica, sans-serif" font-size="20">Mobile Software Engineer · Cairo, Egypt</text>
+  <text x="44" y="194" fill="#e7f6ff" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Senior Full Stack Engineer</text>
+  <text x="44" y="232" fill="#a8c9dc" font-family="Arial, Helvetica, sans-serif" font-size="20">Mobile Developer · Enterprise Applications</text>
   <text x="44" y="270" fill="#7fadc6" font-family="Arial, Helvetica, sans-serif" font-size="17">From architecture to App Store and Google Play releases</text>
 
   <g transform="translate(838 22)">
