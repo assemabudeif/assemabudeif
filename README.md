@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" alt="Assem Abu Deif — Senior Flutter Developer and Mobile Software Engineer" width="100%" />
+  <img src="assets/profile-hero.svg" alt="Assem Abu Deif — Senior Full Stack Engineer and Mobile Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:assem.abudeif@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-183B56?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center"><strong>Flutter engineering · Product delivery · App Store and Google Play releases</strong></p>
+<p align="center"><strong>Senior Full Stack Engineer &amp; Mobile Developer · Enterprise Applications · AI-Assisted Engineering</strong></p>
 
 I turn complex workflows into mobile and web products people can use. My core work is Flutter development, API integration, testing, and production release. I also build backends and web frontends with Laravel, Django, React, and Next.js.
 
